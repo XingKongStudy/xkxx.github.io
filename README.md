@@ -1,8 +1,6 @@
-> March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
+># 星空学习视频播放方式
 
-# 星空学习视频播放方式
-
-**一、注意（写在前面！）** 
+### 一、注意（写在前面！） 
 
 **1.1 关于视频** 
 
@@ -12,21 +10,110 @@
 
 **1.2 关于视频缓存清除：** 
 
-### 1) Windows电脑、安卓手机、平板
+🎯 1) Windows电脑、安卓手机、平板
 
 视频缓存的路径在你播放器所在路径的myvideo文件夹，若需要清空缓存，可以删掉此文件夹下的缓存即可：
 
-![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
+![Jekyll Now Theme Screenshot](/images/01.png )
 
-## Quick Start
+🎯 2) IPad
+
+详见下图:
+
+![Jekyll Now Theme Screenshot](/images/02.jpg )
+
+🎯 3) Mac电脑
+
+详见下图:
+
+![Jekyll Now Theme Screenshot](/images/03.png )
+
+**1.3 关于是否缓存视频播放:** 
+
+👍注意：若在线播放网速不好或拉进度条易卡顿，请缓存后再播放！
+
+- 如果你选择的是在线播放，在线播放就是边播放边加载云端资源，也就是会缓冲，这跟你的网速有关系，你一拉快进，你需要等一会儿，它才会缓冲过来，如果此时你再去拉，反复的动，就会容易卡顿。
+- 如果你有拉快进的需求，要么你确保你的网速很好，要么你就缓存下来再播放，缓存下来播放，随便你怎么拉快进，都没问题，播放自如。
 
 
 
-Fork this repo, then rename the repository to yourgithubusername.github.io.
+### 二、电脑端（Windows、Mac 端）
 
-Your Jekyll blog will often be viewable immediately at <https://yourgithubusername.github.io> (if it's not, you can often force it to build by completing step 2)
+**2.1 Windows 电脑端** 
 
-![Step 1](/images/step1.gif "Step 1")
+🎯下面是 windows 电脑播放器百度网盘链接（在线播放）
+
+链接：https://pan.baidu.com/s/1qKbFPi29CShf4Lr8g6dyfA
+
+提取码：0b44
+
+通过百度网盘下载到Windows电脑后，输入用户名和密码，即可看到已授权课程，点开即可进行在线播放，也可以缓存后离线观看。
+
+**2.2 Mac 电脑端** 
+
+🎯下面是 Mac 电脑播放器百度网盘链接（在线播放）：
+
+链接:  https://pan.baidu.com/s/1Fe_ZBpXIcSkgdU7cJ4JLig
+
+提取码: xn14  
+
+ 通过百度网盘将压缩包下载到Mac电脑上后，按照下面图片所列步骤找到播放器双击运行即可，输入用户名和密码，即可看到已授权课程，点开即可进行在线播放，也可以缓存后离线观看。
+
+![Jekyll Now Theme Screenshot](/images/04.png )
+
+![Jekyll Now Theme Screenshot](/images/05.png )
+
+**由于Mac系统不断升级和限制，如果遇到如下情况:**
+
+请按下面操作进行：
+
+- 下载工具：mac打开任何来源小工具
+
+  链接：https://pan.baidu.com/s/1glFZJMRp6ovwKi05NDnulA
+  
+  提取码：wlwv
+  
+- 参考这个链接操作：MAC如何允许安装任何来源的软件：https://blog.csdn.net/xuefujin/article/details/80264471
+
+  然后再次重复上面的步骤即可安装成功
+  
+  
+  
+### 三、移动设备端（安卓手机平板、IPhone或IPad）
+
+🎯首先来看看安装后的效果图哦
+
+![Jekyll Now Theme Screenshot](/images/07.png )
+
+**3.1 安卓手机平板** 
+
+👍 这是安卓手机平板播放器（在线播放）
+
+安卓手机平板浏览器点开：http://d.3appstore.com/vw95  即可进入安装界面
+
+下载安装后，输入用户名和密码，即可看到已授权课程，点开即可进行在线播放，也可以缓存后离线观看。  
+
+**3.2 IPhone或IPad** 
+
+👍 这是iphone，ipad播放器（在线播放）
+
+iphone、ipad浏览器点开：http://d.3appstore.com/fh1d   即可进入安装界面
+
+安装后，按照如下图片流程进行播放器的信任设置：
+
+![Jekyll Now Theme Screenshot](/images/08.jpg )
+
+![Jekyll Now Theme Screenshot](/images/09.jpg )
+
+信任完成后，打开播放器，输入用户名和密码，即可看到已授权课程，点开即可进行在线播放，也可以缓存后离线观看。  
+
+
+### 四、有问题随时联系星空学习客服进行咨询，祝您学习愉快!
+
+![Jekyll Now Theme Screenshot](/images/10.jpg )
+
+
+
 
 ### Step 2) Customize and view your site
 
