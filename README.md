@@ -1,24 +1,26 @@
 > March, 2016: If you're on an old version of Jekyll Now and run into a) build warnings or b) syntax highlighting issues caused by [Jekyll 3 and GitHub Pages updates](https://github.com/blog/2100-github-pages-now-faster-and-simpler-with-jekyll-3-0), just :sparkles:[update your _config.yml](https://github.com/barryclark/jekyll-now/pull/445/files):sparkles: and you'll be set!
 
-# Jekyll Now
+# 星空学习视频播放方式
 
-**Jekyll** is a static site generator that's perfect for GitHub hosted blogs ([Jekyll Repository](https://github.com/jekyll/jekyll))
+**一、注意（写在前面！）** 
 
-**Jekyll Now** makes it easier to create your Jekyll blog, by eliminating a lot of the up front setup.
+**1.1 关于视频** 
 
-- You don't need to touch the command line
-- You don't need to install/configure ruby, rvm/rbenv, ruby gems :relaxed:
-- You don't need to install runtime dependencies like markdown processors, Pygments, etc
-- If you're on Windows, this will make setting up Jekyll a lot easier
-- It's easy to try out, you can just delete your forked repository if you don't like it
+- 视频课程支持在三台设备上使用，课程播放有效期请咨询星空学习！
+- 购买后客服会发给您课程的用户名和密码，用于播放器登录
+- 请加客服qq好友，便于提供后续售后服务，避免失联，QQ二维码详见文末！
 
-In a few minutes you'll be set up with a minimal, responsive blog like the one below giving you more time to spend on writing epic blog posts!
+**1.2 关于视频缓存清除：** 
+
+### 1) Windows电脑、安卓手机、平板
+
+视频缓存的路径在你播放器所在路径的myvideo文件夹，若需要清空缓存，可以删掉此文件夹下的缓存即可：
 
 ![Jekyll Now Theme Screenshot](/images/jekyll-now-theme-screenshot.jpg "Jekyll Now Theme Screenshot")
 
 ## Quick Start
 
-### Step 1) Fork Jekyll Now to your User Repository
+
 
 Fork this repo, then rename the repository to yourgithubusername.github.io.
 
